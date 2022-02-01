@@ -1,0 +1,80 @@
+.instagram-logo{
+    margin-left: 192px;
+    
+}
+.navbar-features{
+    background-color: white;
+    height: 54px;
+    border-bottom: 1px solid rgba(var(--b6a,219,219,219),1) ;
+    
+}
+::placeholder{
+    background-image: url(/assets/search-solid.svg);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: left;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+   
+}
+.profile-photo{
+    width: 24px;
+    height: 24px;
+}
+body{
+    background-color: rgba(var(--b3f,250,250,250),1);
+    padding: 40px;
+    margin: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.story-photo{
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+}
+.story-text{
+    color: rgba(var(--i1d,38,38,38),1);
+    letter-spacing: .01em;
+    font-size: 12px;
+    
+    
+}
+
+.posts-photo{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+.posts-name{
+    font-size: 14px;
+
+}
+.posts-country{
+    font-size: 12px;
+}
+
+.middlearea{
+    max-height: 200px !important ;
+}
+
+.follow-color{
+    color: #0095f6;;
+}
+.link{
+    font-size: 11px;
+    color: #c7c7c7;
+}
+
+#sticky-sidebar{
+    position: sticky;
+    top: 100px;
+}
+
+.right-panel{
+    background-color: #fff;
+    border: none;
+}
